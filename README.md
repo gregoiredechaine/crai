@@ -1,2 +1,2 @@
-# vuepress-netlify-cms
-Example integration of VuePress with Netlify
+# CRAi
+This repo is used for the CRAi website hosted on Netlify.
