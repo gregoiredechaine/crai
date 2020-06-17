@@ -1,0 +1,15 @@
+.footer-clean {
+  padding: 4em 0;
+}
+
+@media (max-width:767px) {
+  .footer-clean .item {
+    padding-bottom: 2em;
+  }
+}
+
+.footer-clean .copyright {
+  margin-top: 3em;
+  margin-bottom: 0;
+}
+
