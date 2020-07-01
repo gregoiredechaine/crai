@@ -1,5 +1,6 @@
 .footer-clean {
-  padding: 4em 0;
+  padding: 6em 0;
+  border-top: 1px solid rgb(237, 176, 46);
 }
 
 @media (max-width:767px) {
@@ -9,7 +10,14 @@
 }
 
 .footer-clean .copyright {
-  margin-top: 3em;
+  margin-top: 1em;
   margin-bottom: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  padding: 0.5em 0 0.5em 1.5em;
+}
+
+.team-image:after:hover {
 }
 
